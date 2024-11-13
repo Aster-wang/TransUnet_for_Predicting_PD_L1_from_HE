@@ -9,6 +9,6 @@ Background: Detecting programmed death ligand 1 (PD-L1) expression based on immu
 
 
 ---
-![image](https://github.com/Baron-Huang/TransUnet_for_Predicting_PD_L1_from_HE/blob/main/1.PNG)
+![image](https://github.com/Aster-wang/TransUnet_for_Predicting_PD_L1_from_HE/blob/main/1.PNG)
 Fig.1. Overview of our work 
 
